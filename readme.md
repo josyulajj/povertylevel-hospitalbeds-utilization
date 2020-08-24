@@ -12,7 +12,10 @@ US Poverty Level Data Source:  https://www.ers.usda.gov/webdocs/DataFiles/48747/
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> With increased poverty level, there is increase in bed availability.The intresting fact that this availability can be made available to hospitals with high bed utilization.
+Short term Acute Care hospitals is shown to have the major percentage of increased bed availability.
+Potential increase in bed capacity are availabe in MS, LA and KY States - where the short term acute care hospitals have 11% to 14% of increased bed capacity.
+
 
 
 ## Key Insights for Presentation
