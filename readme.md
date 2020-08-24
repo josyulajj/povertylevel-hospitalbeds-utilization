@@ -1,10 +1,13 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# US Poverty Level impact on Hospital Bed Utilization.
+## by Jagadeesh Josyula
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> This project explores a dataset containing Hospital Bed data for approximately 6621 hospitals across all counties in United States. To better understand how US Poverty Level impact on Hospital Bed Utilization, the poverty level data is sourced from usda public data that provides the poverty level at county level.
+
+Hospital Bed Data Source: https://opendata.arcgis.com/datasets/1044bb19da8d4dbfb6a96eb1b4ebf629_0.csv
+US Poverty Level Data Source:  https://www.ers.usda.gov/webdocs/DataFiles/48747/PovertyEstimates.xls
 
 
 ## Summary of Findings
