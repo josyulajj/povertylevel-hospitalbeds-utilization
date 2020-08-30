@@ -2,7 +2,7 @@
 
 ## by Jagadeesh Josyula ##
 ---
-To better understand how socioeconomic status - such as populations living in federal poverty area impact hospital bed utilization and to help optimize scenario planning for when staff can be shifted around to serve those living in federal poverty areas.
+To better understand how socioeconomic status - such as populations living in federal poverty area impacts hospital bed utilization and to help optimize scenario planning for when staff can be shifted around to serve those living in federal poverty areas.
 
 ## Investigation Overview ##
 
