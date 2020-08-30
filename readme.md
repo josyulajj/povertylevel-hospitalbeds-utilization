@@ -40,7 +40,7 @@ Short term Acute Care hospitals are shown to have a major percentage of increase
 
 A positive relationship we found between an increase in bed capacity and poverty level in the context of bed utilization.
 
-![Poverty level in the context of bed utilization](poverty level-bedavailibility.png)
+![Poverty level in the context of bed utilization](povertylevel-bedavailibility.png)
 
 
 ### Cluster Analysis - Top 5 US STATES in Poverty ###
